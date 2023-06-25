@@ -23,7 +23,7 @@ GIF created with LICEcap.
 
 Describe any challenges encountered while building the app.
         1, Connecting the phisical iphone is challenging. I update my iphone and xcode to the lastet version. 
-        2, How to use camera is also difficult for me. 
+        2, How to keep log in when close the app.
 
 ## License
 
