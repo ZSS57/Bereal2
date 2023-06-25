@@ -1,4 +1,4 @@
-# Project 6  *-Bereal-*
+# Project   *-Bereal-*
 
 Submitted by: **Sha Zhao**
 
